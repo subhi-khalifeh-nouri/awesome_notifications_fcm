@@ -16,8 +16,8 @@ dependencies:
 
   firebase_core: ^3.6.0
   firebase_crashlytics: ^4.1.3
-
-  awesome_notifications: ^0.10.0
+  awesome_notifications:
+    git: https://github.com/subhi-khalifeh-nouri/awesome_notifications
 #    path: ../awesome_notifications
 #    git:
 #      ref: "a9fbe3e"
